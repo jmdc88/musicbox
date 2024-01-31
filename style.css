@@ -210,10 +210,10 @@ input#music {
 }
 
 .box:before {
-  content:"kirby";
+  content:"kirbyyy";
   position: absolute;
   font-size: 10px;
-  font-family: "Lucida Handwriting", cursive;
+  font-family: "Brush Script MT", cursive;
   bottom: 10px;
   right:15px;
 }
